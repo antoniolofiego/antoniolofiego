@@ -10,17 +10,37 @@ I am a cloud-oriented data professional and software engineer.
 ## My Github Stats 📊
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages
+## Languages and Frameworks
 <p align="left">
-  
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/python.svg" alt="Python">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/js.svg" alt="JavaScript">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/nodejs.svg" alt="Node.js">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/react.svg" alt="React">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/html.svg" alt="HTML">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/css3.svg" alt="CSS3">
 </p>
 
 ## Tools
 <p align="left">
-  
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/aws.svg" alt="AWS">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/docker.svg" alt="Docker">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/gcp.svg" alt="Google Cloud Platform">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/npm.svg" alt="npm">
+  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/visualstudio_code.svg" alt="VSCode">
 </p>
 
 ## Social
 <p align="left">
-  
+  <a href="https://twitter.com/antonio_lofiego">
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/twitter.svg" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/antoniolofiego">
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@antonio_lofiego">
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/medium.svg" alt="Medium">
+  </a>
+  <a href="mailto:alofiego@hey.com">  
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/email_me.svg" alt="Email me">
+  </a>
 </p>
