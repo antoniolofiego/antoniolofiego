@@ -1,7 +1,7 @@
 # Hello! I am [Antonio](https://antoniolofiego.com) 👋
 I am a cloud-oriented data professional and software engineer. 
 
-I am currently looking for full time employment, so if you like my resume, feel free to <a href="mailto:alofiego@hey.com">email me</a>.  
+I am currently looking for full time employment, so if you like my <a href="https://github.com/antoniolofiego/antoniolofiego/blob/master/resume/Resume%20-%20Antonio%20Lo%20Fiego.pdf">resume</a>, feel free to <a href="mailto:alofiego@hey.com">email me</a>.  
 
 ## About me
 - 🔭 I’m currently working on the serverless infrastructure for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) website
