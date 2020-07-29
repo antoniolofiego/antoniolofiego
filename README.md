@@ -10,7 +10,7 @@ I am looking for full time employment, so if you like my <a href="https://github
 - ⚡ Fun fact: I played lead guitar in a Technical Death Metal band when I was 16
 
 ## My Github Stats 📊
-![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Frameworks
 <p align="left">
