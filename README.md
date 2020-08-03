@@ -25,7 +25,6 @@ I am looking for full time employment, so if you like my <a href="https://github
 <p align="left">
   <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/aws.svg" alt="AWS">
   <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/docker.svg" alt="Docker">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/gcp.svg" alt="Google Cloud Platform">
   <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/npm.svg" alt="npm">
   <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/visualstudio_code.svg" alt="VSCode">
 </p>
