@@ -22,24 +22,6 @@ I am looking for full time employment, so if you like my <a href="https://github
 
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Frameworks
-<p align="left">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/python.svg" alt="Python">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/js.svg" alt="JavaScript">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/nodejs.svg" alt="Node.js">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/react.svg" alt="React">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/html.svg" alt="HTML">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/languages-framework/css3.svg" alt="CSS3">
-</p>
-
-## Tools
-<p align="left">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/aws.svg" alt="AWS">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/docker.svg" alt="Docker">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/npm.svg" alt="npm">
-  <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/visualstudio_code.svg" alt="VSCode">
-</p>
-
 ## My latest blog posts
 <!-- HASHNODE:START -->
 - [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1-ckdc4tni0031759s14z0pdd2j)
