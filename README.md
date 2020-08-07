@@ -3,6 +3,17 @@ I am a cloud-oriented data professional and software engineer.
 
 I am looking for full time employment, so if you like my <a href="https://github.com/antoniolofiego/antoniolofiego/blob/master/resume/Resume%20-%20Antonio%20Lo%20Fiego.pdf">resume</a>, feel free to <a href="mailto:alofiego@hey.com">email me</a>.  
 
+
+## Connect with me
+<p align="left">
+  <a href="https://twitter.com/antonio_lofiego">
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/twitter.svg" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/antoniolofiego">
+    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/linkedin.svg" alt="LinkedIn">
+  </a>
+</p>
+
 ## About me
 - 🔭 I’m currently working on the serverless infrastructure for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) website
 - 🌱 I’m actively preparing for AWS Certifications (2x #AWSCertified)
@@ -29,15 +40,6 @@ I am looking for full time employment, so if you like my <a href="https://github
   <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/tools/visualstudio_code.svg" alt="VSCode">
 </p>
 
-## Social
-<p align="left">
-  <a href="https://twitter.com/antonio_lofiego">
-    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/twitter.svg" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/antoniolofiego">
-    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@antonio_lofiego">
-    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/medium.svg" alt="Medium">
-  </a>
-</p>
+## My latest blog posts
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
