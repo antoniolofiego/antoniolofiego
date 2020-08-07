@@ -7,10 +7,10 @@ I am looking for full time employment, so if you like my <a href="https://github
 ## Connect with me
 <p align="left">
   <a href="https://twitter.com/antonio_lofiego">
-    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/twitter.svg" alt="Twitter">
+    <img src="https://img.icons8.com/android/48/000000/twitter.png" alt="twitter/>
   </a>
   <a href="https://linkedin.com/in/antoniolofiego">
-    <img src="https://github.com/antoniolofiego/antoniolofiego/blob/master/svg/social/linkedin.svg" alt="LinkedIn">
+    <img src="https://img.icons8.com/android/48/000000/linkedin.png" alt="LinkedIn">
   </a>
 </p>
 
