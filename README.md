@@ -24,5 +24,6 @@ I am looking for full time employment, so if you like my <a href="https://github
 
 ## My latest blog posts
 <!-- HASHNODE:START -->
+- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 2)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2-ckdlu8yge04y6zzs14qgz76go)
 - [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1-ckdc4tni0031759s14z0pdd2j)
 <!-- HASHNODE:END -->
