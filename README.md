@@ -12,8 +12,9 @@ I am a cloud-oriented data professional and software engineer.
 </p>
 
 ## About me
-- 🏍 I'm a Data Analyst in the Decision Sciences deparment of RevZilla/Comoto Holdings
+- 🏍 I'm a Data Analyst at RevZilla
 - ☁ I’m a Core-Team member and PM of Cloud Engineering for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) community
+- 🚀 I'm an AWS Community Builder
 - 🌱 I’m actively preparing for AWS Certifications (3x #AWSCertified)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I played lead guitar in a Technical Death Metal band when I was 16
