@@ -22,6 +22,7 @@ I am a cloud-oriented data professional and software engineer.
 
 ## My latest blog posts
 <!-- HASHNODE:START -->
-- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 2)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2-ckdlu8yge04y6zzs14qgz76go)
-- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1-ckdc4tni0031759s14z0pdd2j)
+- [#TechCribs: A tour of my WFH/Productivity setup](https://blog.antoniolofiego.com/techcribs-a-tour-of-my-wfhproductivity-setup)
+- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 2)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2)
+- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1)
 <!-- HASHNODE:END -->
