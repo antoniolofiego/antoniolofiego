@@ -28,6 +28,6 @@ I am a cloud-oriented data professional and software engineer.
 - [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1)
 <!-- HASHNODE:END -->
 
-## ✨ My Recent Activity
+## My Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
