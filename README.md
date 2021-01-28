@@ -27,8 +27,3 @@ I am a cloud-oriented data professional and software engineer.
 - [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 2)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2)
 - [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1)
 <!-- HASHNODE:END -->
-
-## My Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/antoniolofiego/git-training/pull/1) in [antoniolofiego/git-training](https://github.com/antoniolofiego/git-training)
-<!--END_SECTION:activity-->
