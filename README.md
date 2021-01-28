@@ -30,4 +30,5 @@ I am a cloud-oriented data professional and software engineer.
 
 ## My Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/antoniolofiego/git-training/pull/1) in [antoniolofiego/git-training](https://github.com/antoniolofiego/git-training)
 <!--END_SECTION:activity-->
