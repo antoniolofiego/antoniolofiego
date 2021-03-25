@@ -4,10 +4,10 @@ I am a cloud-oriented data professional and software engineer.
 ## Connect with me
 <p align="left">
   <a href="https://twitter.com/antonio_lofiego">
-    <img src="https://img.icons8.com/android/48/000000/twitter.png" alt="twitter/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/twitter-1865886-1581902.png" alt="twitter" height="100"/>
   </a>
   <a href="https://linkedin.com/in/antoniolofiego">
-    <img src="https://img.icons8.com/android/48/000000/linkedin.png" alt="LinkedIn">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="LinkedIn" height="100">
   </a>
 </p>
 
