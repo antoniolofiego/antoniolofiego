@@ -12,7 +12,7 @@ I am a cloud-oriented data professional and software engineer.
 </p>
 
 ## About me
-- 🏍 I'm a Data Analyst at Comoto Holdings
+- 🏍 I'm an Analytics Engineer at Health Union
 - ☁ I’m a Core-Team member and PM of Cloud Engineering for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) community
 - 🚀 I'm an AWS Community Builder
 - 🌱 I’m actively preparing for AWS Certifications (3x #AWSCertified)
