@@ -13,6 +13,7 @@ I am a cloud-oriented data professional and software engineer.
 
 ## About me
 - 🏍 I'm an Analytics Engineer at Health Union
+- 🎙 I'm the co-host of the [cloud, code, life|](https://twitter.com/cloudcodelife) podcast
 - ☁ I’m a Core-Team member and PM of Cloud Engineering for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) community
 - 🚀 I'm an AWS Community Builder
 - 🌱 I’m actively preparing for AWS Certifications (3x #AWSCertified)
