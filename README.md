@@ -16,7 +16,6 @@ I am a cloud-oriented data professional and software engineer.
 - 🎙 I'm the co-host of the [cloud, code, life|](https://twitter.com/cloudcodelife) podcast
 - ☁ I’m a Core-Team member and PM of Cloud Engineering for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) community
 - 🚀 I'm an AWS Community Builder
-- 🌱 I’m actively preparing for AWS Certifications (3x #AWSCertified)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I played lead guitar in a Technical Death Metal band when I was 16
 
