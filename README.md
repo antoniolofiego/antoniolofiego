@@ -19,7 +19,7 @@ I am a cloud-oriented data professional and software engineer.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I played lead guitar in a Technical Death Metal band when I was 16
 
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego)](https://github.com/anuraghazra/github-readme-stats)
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My latest blog posts
 <!-- HASHNODE:START -->
