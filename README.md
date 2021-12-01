@@ -25,6 +25,6 @@ I am a cloud-oriented data professional and software engineer.
 <!-- HASHNODE:START -->
 - [Setting up a Next.js Application with TypeScript, JIT Tailwind CSS and Jest/react-testing-library](https://blog.antoniolofiego.com/setting-up-a-nextjs-application-with-typescript-jit-tailwind-css-and-jestreact-testing-library)
 - [#TechCribs: A tour of my WFH/Productivity setup](https://blog.antoniolofiego.com/techcribs-a-tour-of-my-wfhproductivity-setup)
-- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 2)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2)
-- [The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial (Part 1)](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1)
+- [The Hitchhiker&#39;s Guide to the Containers: A Foolproof, Hands-on Docker Tutorial &lpar;Part 2&rpar;](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-2)
+- [The Hitchhiker&#39;s Guide to the Containers: A Foolproof, Hands-on Docker Tutorial &lpar;Part 1&rpar;](https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1)
 <!-- HASHNODE:END -->
