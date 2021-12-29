@@ -3,13 +3,21 @@ I am a cloud-oriented data professional and software engineer.
 
 
 ## About me
-<img src="https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Antonio Lo Fiego Github's Stats" align="right" />
 
-- :computer: I'm a Technical Lead at Health Union
-- :cloud: I’m working on [learntocloud](https://github.com/learntocloud)
-- :rocket: I'm an AWS Community Builder
-- :bird: You can follow me on [Twitter](https://twitter.com/antonio_lofiego)
-- :speech_balloon: Pronouns: He/Him/His
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Antonio Lo Fiego Github's Stats" align="right" />
+
+  <ul>
+    <li>:computer: I'm a Technical Lead at Health Union</li>
+    <li>:cloud: I’m working on <a href="https://github.com/learntocloud">learntocloud</a></li>
+    <li>:rocket: I'm an AWS Community Builder</li>
+    <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
+    <li>:speech_balloon: Pronouns: He/Him/His</li>
+  </ul>
+</div>
+  
+</br>
+
   
 ## My latest blog posts
 <!-- HASHNODE:START -->
