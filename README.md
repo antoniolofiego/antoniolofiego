@@ -1,26 +1,16 @@
 # Hello! I am [Antonio](https://blog.antoniolofiego.com) 👋
 I am a cloud-oriented data professional and software engineer. 
 
-## Connect with me
-<p align="left">
-  <a href="https://twitter.com/antonio_lofiego">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/twitter-1865886-1581902.png" alt="twitter" height="100"/>
-  </a>
-  <a href="https://linkedin.com/in/antoniolofiego">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="LinkedIn" height="100">
-  </a>
-</p>
 
 ## About me
-- 🏍 I'm a Technical Lead at Health Union
-- 🎙 I'm the co-host of the [cloud, code, life|](https://twitter.com/cloudcodelife) podcast
-- ☁ I’m a Core-Team member and PM of Cloud Engineering for the [#100DaysOfCloud](https://github.com/antoniolofiego/100DaysOfCloudApp) community
-- 🚀 I'm an AWS Community Builder
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I played lead guitar in a Technical Death Metal band when I was 16
+<img src="https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Antonio Lo Fiego Github's Stats" align="right" />
 
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniolofiego&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- :computer: I'm a Technical Lead at Health Union
+- :cloud: I’m working on [learntocloud](https://github.com/learntocloud)
+- :rocket: I'm an AWS Community Builder
+- :bird: You can follow me on [Twitter](https://twitter.com/antonio_lofiego)
+- :speech_balloon: Pronouns: He/Him/His
+  
 ## My latest blog posts
 <!-- HASHNODE:START -->
 - [Setting up a Next.js Application with TypeScript, JIT Tailwind CSS and Jest/react-testing-library](https://blog.antoniolofiego.com/setting-up-a-nextjs-application-with-typescript-jit-tailwind-css-and-jestreact-testing-library)
