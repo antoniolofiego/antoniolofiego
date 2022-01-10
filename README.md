@@ -9,7 +9,6 @@ I am a cloud-oriented data professional and software engineer.
 
   <ul>
     <li>:computer: I'm a Technical Lead at Health Union</li>
-    <li>:cloud: I’m working on <a href="https://github.com/learntocloud">learntocloud</a></li>
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
     <li>:speech_balloon: Pronouns: He/Him/His</li>
