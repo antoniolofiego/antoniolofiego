@@ -9,8 +9,11 @@ I am a cloud-oriented data professional and software engineer.
 
   <ul>
     <li>:computer: I'm a Technical Lead at Health Union</li>
+    <li>:hammer: I'm building GameNight, an app for Board Game enthusiasts</li>
+    <li>:bulb: I'm going deep into cloud native technologies</li>
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
+    <li>:video_camera: I stream on <a href="https://twitch.tv/cloudalf">Twitch</a></li>
     <li>:speech_balloon: Pronouns: He/Him/His</li>
   </ul>
 </div>
