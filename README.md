@@ -2,7 +2,7 @@
 I am a cloud-oriented software engineer in love with Web Dev 
 
 
-<h2>About me</h2>
+<h2>About me:</h2>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Antonio Lo Fiego Github's Stats" align="right" />
@@ -29,22 +29,10 @@ I am a cloud-oriented software engineer in love with Web Dev
       height="40"
     />
   </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -65,10 +53,10 @@ I am a cloud-oriented software engineer in love with Web Dev
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
       width="40"
       height="40"
     />
@@ -97,10 +85,10 @@ I am a cloud-oriented software engineer in love with Web Dev
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       width="40"
       height="40"
     />
@@ -110,7 +98,7 @@ I am a cloud-oriented software engineer in love with Web Dev
 
 
   
-<h2>My latest blog posts</h2>
+## My Latest Blog Posts:
 <!-- HASHNODE:START -->
 - [Setting up a Next.js Application with TypeScript, JIT Tailwind CSS and Jest/react-testing-library](https://blog.antoniolofiego.com/setting-up-a-nextjs-application-with-typescript-jit-tailwind-css-and-jestreact-testing-library)
 - [#TechCribs: A tour of my WFH/Productivity setup](https://blog.antoniolofiego.com/techcribs-a-tour-of-my-wfhproductivity-setup)
