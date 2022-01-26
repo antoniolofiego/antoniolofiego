@@ -10,6 +10,7 @@ I am a cloud-oriented software engineer in love with Web Dev
   <ul>
     <li>:computer: I'm a Technical Lead at Health Union</li>
     <li>:hammer: I'm building GameNight, an app for Board Game enthusiasts</li>
+    <li>:speaker: I'm an organizer for ServerlessDays NYC
     <li>:bulb: I'm focusing on cloud native technologies</li>
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
