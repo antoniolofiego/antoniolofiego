@@ -8,7 +8,6 @@ I am a cloud-oriented software engineer in love with Web Dev
   <img src="https://github-readme-stats.vercel.app/api?username=antoniolofiego&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Antonio Lo Fiego Github's Stats" align="right" />
 
   <ul>
-    <li>:hammer: I'm building GameNight, an app for Board Game enthusiasts</li>
     <li>:speaker: I'm an organizer for ServerlessDays NYC
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
