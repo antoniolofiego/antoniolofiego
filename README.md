@@ -4,7 +4,7 @@ I am a cloud-oriented software engineer in love with Web Dev
 
 <div>
   <ul>
-    <li>:computer: I'm Lead Frontend Engineer at Apploi
+    <li>:computer: I'm a Lead Frontend Engineer at Apploi
     <li>:speaker: I'm an organizer for ServerlessDays NYC and Svelte Society NYC
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
