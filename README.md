@@ -8,7 +8,7 @@ I am a cloud-oriented software engineer in love with Web Dev
     <li>:speaker: I'm an organizer for ServerlessDays NYC and Svelte Society NYC
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
-    <li>:video_camera: I stream on <a href="https://twitch.tv/cloudalf">Twitch</a></li>
+    <li>:video_camera: I (rarely) stream on <a href="https://twitch.tv/cloudalf">Twitch</a></li>
     <li>:speech_balloon: Pronouns: He/Him/His</li>
   </ul>
 </div>
