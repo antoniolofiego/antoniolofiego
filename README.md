@@ -1,5 +1,5 @@
 <h1>Hello! I am Antonio 👋</h1>
-I am a cloud-oriented software engineer in love with Web Dev 
+I dabble with software
 <h2>About me:</h2>
 
 <div>
