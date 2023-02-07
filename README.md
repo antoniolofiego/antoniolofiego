@@ -4,7 +4,7 @@ I dabble with software
 
 <div>
   <ul>
-    <li>:computer: I'm a Senior Frontend Engineer at <a href="https://apploi.com/careers/">Apploi</a>
+    <li>:computer: I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a>
     <li>:speaker: I'm an organizer for ServerlessDays NYC and Svelte Society NYC
     <li>:rocket: I'm an AWS Community Builder</li>
     <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
