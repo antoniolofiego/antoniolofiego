@@ -1,13 +1,5 @@
 <h1>Hello! I am Antonio 👋</h1>
-I dabble with software
-<h2>About me:</h2>
-
-<div>
-  <ul>
-    <li>:computer: I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a>
-    <li>:video_camera: I make content about board games on <a href="https://tiktok.com/@voodoomeeple">TikTok</a></li>
-  </ul>
-</div>
+I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a> and I make content about board games on <a href="https://tiktok.com/@voodoomeeple">TikTok</a>.
   
 ## Languages and Tools
 
