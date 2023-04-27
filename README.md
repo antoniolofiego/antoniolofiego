@@ -5,10 +5,7 @@ I dabble with software
 <div>
   <ul>
     <li>:computer: I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a>
-    <li>:speaker: I'm an organizer for Svelte Society NYC
-    <li>:bird: You can follow me on <a href="https://twitter.com/antonio_lofiego">Twitter</a></li>
     <li>:video_camera: I make content about board games on <a href="https://tiktok.com/@voodoomeeple">TikTok</a></li>
-    <li>:speech_balloon: Pronouns: He/Him/His</li>
   </ul>
 </div>
   
