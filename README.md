@@ -1,5 +1,5 @@
 <h1>Hello! I am Antonio 👋</h1>
-I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a> and I make content about board games on <a href="https://tiktok.com/@voodoomeeple">TikTok</a>.
+I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a> and I am learning Japanese.
   
 ## Languages and Tools
 
