@@ -1,5 +1,5 @@
 <h1>Hello! I am Antonio 👋</h1>
-I'm a Senior Software Engineer at <a href="https://apploi.com/careers/">Apploi</a> and I am learning Japanese.
+I'm a Senior Software Engineer at <a href="https://eino.ai/">eino.ai</a> and I am learning Japanese.
   
 ## Languages and Tools
 
